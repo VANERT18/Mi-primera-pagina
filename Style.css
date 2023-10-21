@@ -1,0 +1,56 @@
+body
+{
+    background-color: #E6E6FA;
+    color: #ff00ff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+#title
+{
+    height: 350px;
+    display:block;
+    margin:auto;
+}
+img
+{
+  height: 200px;
+  text-align: left; 
+}
+#option
+{
+    height: 80px;
+    display:block;
+    margin:auto;
+}
+#aaa
+{
+    height: 150px;
+    display:block;
+    margin:auto;
+}
+#bonus
+{
+    height: 80px;
+    display:block;
+    margin:auto;
+}
+#wawa
+{
+    height: 300px;
+    display:block;
+    margin:auto;
+}
+#over
+{
+    height: 80px;
+    display:block;
+    margin:auto;
+}
+#pac
+{
+    height: 320px;
+    display:block;
+    margin:auto;
+}
+

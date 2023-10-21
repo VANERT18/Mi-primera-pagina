@@ -1,0 +1,32 @@
+body
+{
+    background-color: #7B68EE;
+    color: #ffff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+#ele
+{
+    height: 250px;
+    display:block;
+    margin:auto;
+}
+#perso
+{
+    height: 300px;
+    display:block;
+    margin:auto;
+}
+#wade
+{
+    height: 200px;
+    display:block;
+    margin:auto;
+}
+#ember
+{
+    height: 200px;
+    display:block;
+    margin:auto;
+}

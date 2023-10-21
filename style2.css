@@ -1,0 +1,32 @@
+body
+{
+    background-color: #778899;
+    color: #2F4F4F;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+#arbol
+{
+    height: 180px;
+    display:block;
+    margin:auto;
+}
+#eeee
+{
+    height: 95px;
+    display:block;
+    margin:auto;
+}
+#titan
+{
+    height: 95px;
+    display:block;
+    margin:auto;
+}
+#d
+{
+    height: 180px;
+    display:block;
+    margin:auto;
+}
